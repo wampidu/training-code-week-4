@@ -21,7 +21,7 @@ jobs:
           dotnet sonarscanner begin
           dotnet build
           dotnet test -p:CollectCoverage=true
-          dotent sonarscanner end
+          dotnet sonarscanner end
 
 name: cibuild
 
