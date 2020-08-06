@@ -10,9 +10,16 @@ jobs:
   package:
   deploy:
 
-on:
-  push:
-    - master
+name: cibuild
+
+on: push
+
+
+# for selecting specific branch
+# on:
+#   push:
+#     branches:
+#       - master
 
 
 
