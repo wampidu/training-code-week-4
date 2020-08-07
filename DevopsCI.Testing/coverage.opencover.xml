@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="67" visitedSequencePoints="6" numBranchPoints="26" visitedBranchPoints="0" sequenceCoverage="8.95" branchCoverage="0" maxCyclomaticComplexity="23" minCyclomaticComplexity="17" visitedClasses="1" numClasses="10" visitedMethods="2" numMethods="19" />
   <Modules>
-    <Module hash="EF0F2D06-E274-4CA9-8840-4AF21964DD4E">
+    <Module hash="D0DF018D-90D4-448D-95C3-A09D26349CBF">
       <ModulePath>DevopsCI.Client.dll</ModulePath>
-      <ModuleTime>2020-08-07T04:11:46</ModuleTime>
+      <ModuleTime>2020-08-07T04:41:54</ModuleTime>
       <ModuleName>DevopsCI.Client</ModuleName>
       <Files>
         <File uid="1" fullPath="/home/wompydoo/revature/Week_4/DevopsCI.Client/Program.cs" />
@@ -231,9 +231,9 @@
         </Class>
       </Classes>
     </Module>
-    <Module hash="8EE56556-F5A6-4B12-8D31-A5A1C7CD4698">
+    <Module hash="5DEAC347-746F-405A-BD54-5ACF64269ECE">
       <ModulePath>DevopsCI.Client.Views.dll</ModulePath>
-      <ModuleTime>2020-08-07T04:11:46</ModuleTime>
+      <ModuleTime>2020-08-07T04:41:54</ModuleTime>
       <ModuleName>DevopsCI.Client.Views</ModuleName>
       <Files>
         <File uid="5" fullPath="/home/wompydoo/revature/Week_4/DevopsCI.Client/Views/Home/Index.cshtml" />
